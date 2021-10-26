@@ -1,0 +1,25 @@
+{
+  "name": "todoist-automated-tests",
+  "version": "1.0.0",
+  "description": "Wizeline's SQA onboarding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maalderete/todoist-automated-tests.git"
+  },
+  "keywords": [
+    "todoist"
+  ],
+  "author": "Marcos Francisco Granados Alderete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maalderete/todoist-automated-tests/issues"
+  },
+  "homepage": "https://github.com/maalderete/todoist-automated-tests#readme",
+  "dependencies": {
+    "custom-env": "^2.0.1"
+  }
+}
