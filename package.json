@@ -4,7 +4,7 @@
   "description": "Wizeline's SQA onboarding challenge",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "testcafe chrome ./tests"
   },
   "repository": {
     "type": "git",
